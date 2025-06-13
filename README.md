@@ -16,13 +16,19 @@ npm install firebase tailwindcss recharts axios react-router-dom
 npm install
 
 <img width="1468" alt="Screenshot 2025-06-13 at 3 05 44 PM" src="https://github.com/user-attachments/assets/7a654746-fa46-4744-b029-d5dba6f41e7e" />
+
 <img width="1470" alt="Screenshot 2025-06-13 at 3 06 12 PM" src="https://github.com/user-attachments/assets/14bf1ec4-b7fd-4b47-a213-9686a515733a" />
+
 <img width="1465" alt="Screenshot 2025-06-13 at 3 06 28 PM" src="https://github.com/user-attachments/assets/01b84b8d-ba78-4a1d-a844-d20c6db9b019" />
-<img width="1448" alt="Screenshot 2025-06-13 at 3 07 20 PM" src="https://github.com/user-attachments/assets/da79b360-4b39-43ff-87ca-4b921f444e64"
+
+<img width="1448" alt="Screenshot 2025-06-13 at 3 07 20 PM" src="https://github.com/user-attachments/assets/da79b360-4b39-43ff-87ca-4b921f444e64"/>
+
 <img width="897" alt="Screenshot 2025-06-13 at 3 09 42 PM" src="https://github.com/user-attachments/assets/0511f971-7302-413b-90b8-5da6494d29b6" />
- />
+ 
  
 personalised notes 
+
+
 <img width="767" alt="Screenshot 2025-06-13 at 3 10 36 PM" src="https://github.com/user-attachments/assets/3bf084ac-8e73-47c6-a7fb-038fd371894b" />
 
 
